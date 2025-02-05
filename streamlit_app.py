@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("KREAMORN INV BI PLATFORM,... WIP")
+st.write("KREAMORN INVESTMENTS BI PLATFORM,... WIP")
